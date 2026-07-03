@@ -31,7 +31,7 @@ This is a nested case-control study within the Swedish Maternal Microbiome (SweM
 ├── data/
 │   └── README.md                   # Where to obtain the data (ENA)
 └── results/
-    └── figures/                    # Output figures (optional)
+    └── figures/                    # Output figures
 ```
 
 ## Analysis workflow
