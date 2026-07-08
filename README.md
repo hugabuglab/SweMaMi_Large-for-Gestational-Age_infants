@@ -27,7 +27,7 @@ This is a nested case-control study within the Swedish Maternal Microbiome (SweM
 │   ├── 04_differential_abundance.ipynb # MaAsLin3 species, TP1 (Fig. 5)
 │   ├── 05_gut_metabolic_modules.ipynb  # GMM profiling, TP1/TP2 (Fig. 6, 7)
 │   ├── 06_species_contributions.ipynb  # KO contributions (Fig. 9)
-│   └── 07_sensitivity_analysis.ipynb   # GDM/EGWG exclusion, subsampling (Tables S4–S6)
+│   └── 07_sensitivity_analysis.ipynb   # GDM/EGWG exclusion(Tables S4–S5)
 ├── data/
 │   └── README.md                   # Where to obtain the data (ENA)
 └── results/
@@ -44,7 +44,7 @@ This is a nested case-control study within the Swedish Maternal Microbiome (SweM
 | `04_differential_abundance` | MaAsLin3 differential abundance/prevalence at TP1 | Figure 5 |
 | `05_gut_metabolic_modules` | Gut Metabolic Module profiling (MaAsLin3 + logistic regression) at TP1 and TP2 | Figures 6, 7 |
 | `06_species_contributions` | KO gene family contributions of *Anaerostipes hadrus* to AGA-associated modules | Figure 9 |
-| `07_sensitivity_analysis` | Restriction to participants without GDM/EGWG; random subsampling (power vs. mediation) | Tables S4–S6 |
+| `07_sensitivity_analysis` | Restriction to participants without GDM/EGWG| Tables S4–S5 |
 
 **Note on Figure 8:** The gut metabolic map (Figure 8) is a conceptual figure
 created manually (adapted from Vieira-Silva et al.) to illustrate the positions
