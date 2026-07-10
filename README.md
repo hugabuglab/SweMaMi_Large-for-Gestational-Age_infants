@@ -5,7 +5,7 @@ Analysis code accompanying the manuscript:
 > **Maternal gut microbiome diversity and functional potential in early pregnancy are associated with large-for-gestational-age birth: a nested case-control study within the SweMaMi cohort**
 > Antony AT, Mohseni F, Toubon G, Guðnadóttir U, Engstrand L, Fransson E, Schuppe-Koistinen I, Brusselaers N, Hugerth LW.
 
-This repository documents the full analysis pipeline used in the study. It is provided for **transparency**. Note that the raw sequencing data are not hosted here (see [Data availability](#data-availability)),the analyses cannot be re-run end-to-end from this repository alone, but every analytical step reported in the manuscript is included.
+This repository documents the analysis pipeline used in the study. It is provided for **transparency**. Note that the raw sequencing data are not hosted here (see [Data availability](#data-availability)),so the analyses cannot be re-run end-to-end from this repository alone. Code for the main analyses is included; the sensitivity analyses used identical methods on a restricted subset (see the Sensitivity analysis section below).
 
 ---
 
